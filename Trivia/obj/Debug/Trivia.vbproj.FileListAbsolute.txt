@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\bin\Debug\Trivia.xml
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.Form1.resources
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.xml
+C:\Users\CCLC\Documents\Tyler\Trivia\Trivia\obj\Debug\Trivia.pdb
